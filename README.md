@@ -1,4 +1,4 @@
-# ubuntu kde external device comaptibily fixes
+# ubuntu 20 kde external device comaptibily fixes
 
 | Problem  | Script  |
 |---|---|
